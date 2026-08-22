@@ -1,0 +1,3 @@
+Este es un archivo txt, ya no tenemos las caracteristicas de markdown
+
+Este es un texto plano
